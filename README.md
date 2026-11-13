@@ -48,15 +48,15 @@ Trabalho em uma startup de tecnologia desde o estágio técnico (AWS, Docker, in
 
 ### 📂 Projetos em Destaque
 
-Todos estão no ar para você testar. Cada repositório explica o contexto, o que eu fiz e, nos trabalhos em grupo, o que foi de outras pessoas.
+Todos estão no ar: clique no nome do projeto para ver o código e em **Ver** para abrir o aplicativo. Cada repositório explica o contexto, o que eu fiz e, nos trabalhos em grupo, o que foi de outras pessoas.
 
-| Projeto | O que é | Tecnologias | Links |
+| Projeto | O que é | Tecnologias | Aplicativo |
 |---|---|---|---|
-| 🍽️ **App de Receitas** | Busca de receitas de comidas e bebidas, com favoritos e receitas em andamento. Projeto em grupo da Trybe (front-end), escolhido entre os da minha turma para ser apresentado às turmas seguintes. | React, React Router, APIs públicas | [Demo](LINK_DEMO_RECEITAS) · [Código](https://github.com/VitorN200/recipes-app) |
-| 🍺 **App de Delivery** | Delivery de bebidas com perfis de cliente, vendedor e administrador, e status do pedido atualizado em tempo real. Projeto em grupo da Trybe (full stack). | React, Node.js, Express, MySQL, Sequelize, Socket.IO | [Demo](LINK_DEMO_DELIVERY) · [Código](https://github.com/VitorN200/delivery-app) |
-| 📊 **Auto Controle** | Controle financeiro com contas, transações entre contas e usuários. Projeto da faculdade, em dupla, com Docker. | React, Node.js, Express, MySQL, Docker | [Demo](LINK_DEMO_AUTOCONTROLE) · [Código](https://github.com/VitorN200/auto-controle) |
-| 🛒 **Loja Virtual** | Loja com carrinho de compras e busca. Teste técnico para uma vaga de estágio. | React, Vite, JSON Server | [Demo](LINK_DEMO_LOJA) · [Código](https://github.com/VitorN200/teste-react-store) |
-| ⏱️ **StopWatch** | Cronômetro em JavaScript puro, vencedor de um concurso de código na Trybe. | JavaScript, HTML, CSS | [Demo](LINK_DEMO_STOPWATCH) · [Código](https://github.com/VitorN200/StopWatch) |
+| 🍽️ [**App de Receitas**](https://github.com/VitorN200/recipes-app) | Busca de receitas de comidas e bebidas, com favoritos e receitas em andamento. Projeto em grupo da Trybe (front-end), escolhido entre os da minha turma para ser apresentado às turmas seguintes. | React, React Router, APIs públicas | [Ver](https://recipes-app-five-lilac.vercel.app/) |
+| 🍺 [**App de Delivery**](https://github.com/VitorN200/delivery-app) | Delivery de bebidas com perfis de cliente, vendedor e administrador, e status do pedido atualizado em tempo real. Projeto em grupo da Trybe (full stack). | React, Node.js, Express, MySQL, Sequelize, Socket.IO | [Ver](https://delivery-app-production-a0305b60.up.railway.app/login) |
+| 📊 [**Auto Controle**](https://github.com/VitorN200/auto-controle) | Controle financeiro com contas, transações entre contas e usuários. Projeto da faculdade, em dupla, com Docker. | React, Node.js, Express, MySQL, Docker | [Ver](https://auto-controle-production.up.railway.app/) |
+| 🛒 [**Loja Virtual**](https://github.com/VitorN200/teste-react-store) | Loja com carrinho de compras e busca. Teste técnico para uma vaga de estágio. | React, Vite, JSON Server | [Ver](https://teste-react-store.vercel.app/) |
+| ⏱️ [**StopWatch**](https://github.com/VitorN200/StopWatch) | Cronômetro em JavaScript puro, vencedor de um concurso de código na Trybe. | JavaScript, HTML, CSS | [Ver](https://stop-watch-delta-liart.vercel.app/) |
 
 ---
 
@@ -89,4 +89,4 @@ Todos estão no ar para você testar. Cada repositório explica o contexto, o qu
       height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorN200&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-</p>
+</p>****
